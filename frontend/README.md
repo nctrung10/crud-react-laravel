@@ -1,4 +1,4 @@
-# CRUD Management App (React + Laravel)
+# Management Web App (React + Laravel)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and Laravel Framework.
 
